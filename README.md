@@ -1,3 +1,3 @@
-# goit-js-hw-01
+# goit-js-hw-05
 
-Variables and types. Function basics.
+Iterative methods of arrays.
